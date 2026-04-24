@@ -23,11 +23,13 @@ Open `index.html` in any modern browser — no server or installation required.
 ##  Project Structure
 
 ```
-B13-UID-Project/
-├── index.html       # Main application markup
-├── Styles.css       # Styling and layout
-├── Script.js        # Interactive logic (role switching, swap mode, modals)
+Digital-Timetable/
+├── Code
+    ├── index.html # Main application markup
+    ├── Styles.css       # Styling and layout
+    ├── Script.js  # Interactive logic (role switching, swap mode, modals)
 └── UID_Report.pdf   # Project report document
+
 ```
 
 ---
